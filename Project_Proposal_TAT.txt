@@ -1,0 +1,5 @@
+﻿1. Topic: Trying to Determine Region based off of Text/Writing Tendencies
+2. I would like to be able to find what region of the U.S. someone is from based off of what words/phrases they tend to use when typing. Other extra-linguistic features such as emoticons will also be taken into consideration.
+3. The data I'm going to acquire will be in the State-specific Reddit pages of each state (every state has a page). I'm going to scrape all of the comments of the most recent 20 posts on each page. Each post will be a file with the State being a folder. I'll start by splitting the states into 4 sections. NorthEast, NorthWest, SoutEast, and SouthWest to start. If that seems promising I'll continue to split into more specific categories.
+4. I haven't been able to find any research yet but I'll continue to look.
+5. I think I can do the majority of my analysis using only the commands and tools that we have covered during this semester.
