@@ -2,6 +2,13 @@
 
 ## Topic
 
-**Determining Region in the U.S. based on text**
+**Predicting U.S. Region through Online Text: PROT**
 
-My project will pull post and comment data from State subreddits on Reddit. It will then organize then preprocess them in preparation for model training. There will also be a script to calculate the most common non-function words in each State.
+This project aims to predict the U.S. region that a reddit post comes from by scraping comments and training a Distilled Bert Model.
+
+Steps to run: (Note: Developer access to reddit is needed for the comment pull scripts)
+1. Reddit_comment_pull.py
+2. data_cleaner.sh (analyze_data.sh can also be run here for ease of manual data analysis)
+3. preprocess_data.sh
+4. prep_data.sh
+5. prot_model.py
