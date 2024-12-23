@@ -13,4 +13,4 @@ Steps to run: (Note: Developer access to reddit is needed for the comment pull s
 4. prep_data.sh
 5. prot_model.py
 
-**As there were too many files in the complete dataset to upload, there is an example of the data and how it should look under Example_data.**
+**As there were too many files in the complete dataset to upload, there is an example of the data and how it should look under Example_Data.**
